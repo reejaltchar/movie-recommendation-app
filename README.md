@@ -23,6 +23,7 @@ In this project I have used CONTENT BASED RECOMMENDATION SYSTEM.
 to access the project click : https://movie-recommendation-app-1-nma2.onrender.com
 
 <img width="942" alt="image" src="https://github.com/user-attachments/assets/c25d7ca3-f174-4560-9e80-1cf890e66725" />
-![image](https://github.com/user-attachments/assets/34bdbf22-ad06-434c-873d-da6458314dfc)
+![image](https://github.com/user-attachments/assets/34bdbf22-ad06-434c-873d-da6458314dfc) 
+
 ![image](https://github.com/user-attachments/assets/e8519b33-e1e3-4b3a-9f79-28a40dfe1361)
 
