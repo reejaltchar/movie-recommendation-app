@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+# Ignore datasets (if too large)
+data/*.csv
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore Streamlit cache
+.streamlit/
+# Ignore model pickle file if it is managed by Git LFS
+models/*.pkl
+*.pkl filter=lfs diff=lfs merge=lfs -text
