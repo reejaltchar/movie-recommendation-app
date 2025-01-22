@@ -20,7 +20,10 @@ In this project I have used CONTENT BASED RECOMMENDATION SYSTEM.
   - Model building  : NumPy , Pandas , scikit-learn
   - Frontend : streamlit , pickle
 
-to access the project click : https://movie-recommendation-app-1-nma2.onrender.com
+to access the project click :  
+https://movie-recommendation-app-cxas9zzussepytqefhoy98.streamlit.app/  
+
+https://movie-recommendation-app-1-nma2.onrender.com
 
 <img width="942" alt="image" src="https://github.com/user-attachments/assets/c25d7ca3-f174-4560-9e80-1cf890e66725" /> 
 
